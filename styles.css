@@ -1,0 +1,79 @@
+.photo
+{
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	margin: 20px;
+	border: white solid 5px;
+}
+.first_container
+{
+	width: 440px;
+	background-color: white;
+	
+}
+.second_container
+{
+	width: 450px;
+	background-color: white;
+}
+.third_container
+{
+	width: 450px;
+	background-color: white;
+}
+.container
+{
+	display: flex;
+	flex-direction: row;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.header
+{
+	width: 1280px;
+	height: 170px;
+	margin-top: 20px; 
+	margin-left: 25px;
+	background-color: #CFCFCF;
+	border-radius: 20px;
+}
+.page
+{
+	font-family: 'Rubik', sans-serif;
+	font-size: 30px;
+	text-align: left;
+	padding-left: 50px;
+	padding-top: 35px;
+}
+.buttons_a
+{
+	font-family: 'Rubik', sans-serif;
+	font-size: 15px;
+	color: white;
+	background: #1E90FF;
+	margin-left: 50px;
+	display: inline-block;
+	padding: 7px;
+	border-radius: 10px;
+}
+.buttons_b
+{
+	font-family: 'Rubik', sans-serif;
+	font-size: 15px;
+	background: white;
+	margin-left: 10px;
+	display: inline-block;
+	padding: 7px;
+	border-radius: 10px;
+}
+.buttons_c
+{
+	font-family: 'Rubik', sans-serif;
+	font-size: 15px;
+	background: white;
+	margin-left: 10px;
+	display: inline-block;
+	padding: 7px;
+	border-radius: 10px;
+}
